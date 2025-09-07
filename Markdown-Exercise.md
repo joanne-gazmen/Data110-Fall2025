@@ -37,6 +37,27 @@ One of my favorite quotes I go by in life is:
 >
 > --- Michael Jhon Agawin
 
-### Using Inline Code & Code Blocks:
-```{r, chunk-label, results='hide', fig.height=4}
+### Using Inline Code & Code Blocks (in R coding language):
+```r
+chunk-label,
+results='hide',
+fig.height=4
+```
 
+### Tables (hobbies and how many people voted as an interest)
+| Hobbies | Votes |
+| ------- | ----- |
+| cooking |   6   |
+| running |   4   |
+|   arts  |   3   |
+| reading |   5   |
+
+### Task List
+- [X] Go for a walk
+- [ ] Go to the gym
+- [ ] Finish Data110 Markdown Exercise
+- [X] Finish Sociology homework
+
+### Footnotes
+Linear algebra is key in data science applications.
+                [^1] Muhammad & Saidi (2024), Scatterplot, 1(1).
