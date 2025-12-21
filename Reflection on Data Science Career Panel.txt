@@ -1,0 +1,23 @@
+Reflection on Data Science Career Panel
+
+Takeaways: What is one important idea, skill, or piece of advice you learned from the panel?
+
+- An important idea that the panel asked was "how are we going to be able to continue being human eccentric" Especially when AI is growing rapidly 
+
+- How to prepare yourself for a data science career/What kind of degree do you need
+
+- A lot of patterns of being a major of business + stem major (important when consulting with clients while still being able work with technology)
+
+- The ability to think deeply is an important skill as a data scientist 
+
+2. Reflection: How does this connect to your own career goals or interests in data science?
+
+I think the idea that there is a flexibility with having different majors while still connecting to data science is relieving, I think this because the diversity is what keeps it real. Without the versatility, there wouldn't be much to work with. So having people with different background and interest is a positive, and one of the biggest takes away for me when thinking about being a data scientist. I also feel as though I resonated with the panelist, as some of them didn't really know what they wanted to do in life, and to hear that becoming a data scientist was something life changing was nice to hear. I also resonate with the idea of thinking deeply and always asking questions. I found this to be a positive now because as a data scientist, its good to always have questions, because the more questions you have, the more you have to do to research, and that is the fun of it.
+	
+3. Question: If you had the chance, what is one question you would ask the panelists?
+
+A question I would like to ask the panelist that popped up when I was listening is... 
+
+"How do you measure whether a data science project is “successful”?"
+
+I thought this, because there was the idea how data collection is long term, there as a lot of data raw data that needs to be cleaned, there is a lot of understanding the data, and questioning what is the problem we are trying to solve. Now after a lot of data collection, understanding the data, and solving the data, and putting it out there, I want to know what exactly determines that success of the problem. How do you determine that the audience took away the main point? How do you know the audience will take affect to what knowledge they took in.
